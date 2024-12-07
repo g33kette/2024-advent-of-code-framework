@@ -1,0 +1,18 @@
+{
+    "name": "2024-advent-of-code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "run.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "advent": "node run.js",
+        "help": "node help.js",
+        "format": "prettier --write ."
+    },
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "devDependencies": {
+        "prettier": "^3.4.1"
+    }
+}
